@@ -58,7 +58,7 @@ mediapipe>=0.10.0,<1.0.0
 # PWA (PROGRESSIVE WEB APP) DEPENDENCIES
 # ====================================================================
 # For generating PWA icons and assets
-Pillow>=8.0.0,<11.0.0
+Pillow>=10.4.0
 
 # ====================================================================
 # WEB SERVING AND STATIC FILES
